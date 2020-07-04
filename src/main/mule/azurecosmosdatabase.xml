@@ -20,7 +20,7 @@ output application/java
 var verb = "POST"
 var resourceType = "docs" 
 var resourceId = "dbs/hr/colls/employee"
-var key = "5rLs94tqmxukcJKr4xM1sqQ6HPbxaFAtwIuF15DIeKYadVJul39clPpieWrVnXyYvIPVPucufu1vtvEDWrBq7g=="
+var key = "Your Key Goes Here"
 var keyType = "master"
 var tokenVersion = "1.0"		 
 var serverDateTime = GenerateCosmosDBAuthToken::getServerTime() as String
@@ -59,7 +59,7 @@ output application/java
 var verb = "POST"
 var resourceType = "docs" 
 var resourceId = "dbs/hr/colls/employee"
-var key = "5rLs94tqmxukcJKr4xM1sqQ6HPbxaFAtwIuF15DIeKYadVJul39clPpieWrVnXyYvIPVPucufu1vtvEDWrBq7g=="
+var key = "Your Key Goes Here"
 var keyType = "master"
 var tokenVersion = "1.0"		 
 var serverDateTime = GenerateCosmosDBAuthToken::getServerTime() as String
@@ -97,7 +97,7 @@ output application/java
 var verb = "GET"
 var resourceType = "docs" 
 var resourceId = "dbs/hr/colls/employee"
-var key = "5rLs94tqmxukcJKr4xM1sqQ6HPbxaFAtwIuF15DIeKYadVJul39clPpieWrVnXyYvIPVPucufu1vtvEDWrBq7g=="
+var key = "Your Key Goes Here"
 var keyType = "master"
 var tokenVersion = "1.0"		 
 var serverDateTime = GenerateCosmosDBAuthToken::getServerTime() as String
@@ -135,7 +135,7 @@ output application/java
 var verb = "DELETE"
 var resourceType = "docs" 
 var resourceId = "dbs/hr/colls/employee/docs/" ++ payload.id
-var key = "5rLs94tqmxukcJKr4xM1sqQ6HPbxaFAtwIuF15DIeKYadVJul39clPpieWrVnXyYvIPVPucufu1vtvEDWrBq7g=="
+var key = "Your Key Goes Here"
 var keyType = "master"
 var tokenVersion = "1.0"		 
 var serverDateTime = GenerateCosmosDBAuthToken::getServerTime() as String
@@ -173,7 +173,7 @@ output application/java
 var verb = "POST"
 var resourceType = "docs" 
 var resourceId = "dbs/hr/colls/employee"
-var key = "5rLs94tqmxukcJKr4xM1sqQ6HPbxaFAtwIuF15DIeKYadVJul39clPpieWrVnXyYvIPVPucufu1vtvEDWrBq7g=="
+var key = "Your Key Goes Here"
 var keyType = "master"
 var tokenVersion = "1.0"		 
 var serverDateTime = GenerateCosmosDBAuthToken::getServerTime() as String
